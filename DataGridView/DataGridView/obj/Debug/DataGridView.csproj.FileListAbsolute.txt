@@ -1,0 +1,44 @@
+C:\Users\amaranta\source\repos\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\amaranta\source\repos\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\amaranta\source\repos\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\amaranta\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.csprojAssemblyReference.cache
+C:\Users\amaranta\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.login.resources
+C:\Users\amaranta\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\amaranta\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+C:\Users\amaranta\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\amaranta\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\amaranta\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.pdb
+C:\Users\amaranta\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.formulario.resources
+D:\FACULL\3°semestre\Ambientes visuais\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+D:\FACULL\3°semestre\Ambientes visuais\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+D:\FACULL\3°semestre\Ambientes visuais\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+D:\FACULL\3°semestre\Ambientes visuais\DataGridView\DataGridView\obj\Debug\DataGridView.csprojAssemblyReference.cache
+D:\FACULL\3°semestre\Ambientes visuais\DataGridView\DataGridView\obj\Debug\DataGridView.formulario.resources
+D:\FACULL\3°semestre\Ambientes visuais\DataGridView\DataGridView\obj\Debug\DataGridView.login.resources
+D:\FACULL\3°semestre\Ambientes visuais\DataGridView\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+D:\FACULL\3°semestre\Ambientes visuais\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+D:\FACULL\3°semestre\Ambientes visuais\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.CoreCompileInputs.cache
+D:\FACULL\3°semestre\Ambientes visuais\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+D:\FACULL\3°semestre\Ambientes visuais\DataGridView\DataGridView\obj\Debug\DataGridView.pdb
+C:\Users\Suzi\Desktop\DataGridView\DataGridView\obj\Debug\DataGridView.csprojAssemblyReference.cache
+C:\Users\Suzi\Desktop\DataGridView\DataGridView\obj\Debug\DataGridView.formulario.resources
+C:\Users\Suzi\Desktop\DataGridView\DataGridView\obj\Debug\DataGridView.login.resources
+C:\Users\Suzi\Desktop\DataGridView\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\Suzi\Desktop\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+C:\Users\Suzi\Desktop\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\Suzi\Desktop\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\Suzi\Desktop\DataGridView\DataGridView\obj\Debug\DataGridView.pdb
+C:\Users\Suzi\Desktop\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\Suzi\Desktop\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\Suzi\Desktop\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+D:\Facul\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+D:\Facul\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+D:\Facul\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+D:\Facul\DataGridView\DataGridView\obj\Debug\DataGridView.csprojAssemblyReference.cache
+D:\Facul\DataGridView\DataGridView\obj\Debug\DataGridView.formulario.resources
+D:\Facul\DataGridView\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+D:\Facul\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+D:\Facul\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.CoreCompileInputs.cache
+D:\Facul\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+D:\Facul\DataGridView\DataGridView\obj\Debug\DataGridView.pdb
+D:\Facul\DataGridView\DataGridView\obj\Debug\DataGridView.frmlogin.resources
